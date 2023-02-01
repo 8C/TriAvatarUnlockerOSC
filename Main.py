@@ -5,7 +5,7 @@ client = SimpleUDPClient(IP, PORT)
 
 pw1 = 12
 pw2 = 34
-pw3 = 45
+pw3 = 56
 
 if __name__ == '__main__':
    
